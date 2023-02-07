@@ -1,0 +1,28 @@
+/* to get rid of bullet points */
+nav ul{
+  list-style: none;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+}
+
+body{
+  height: 1000px;
+  background: linear-gradient(141deg, #1677C5 0%, #1A224C 51%, #0D1126 75%);
+}
+
+h2 {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #EDB32B;
+}
+
+/* to change the color of unvisited links */
+a:link{
+color: darkseagreen;
+}
+a:visited{
+color: darkseagreen;
+}
