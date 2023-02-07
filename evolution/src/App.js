@@ -1,8 +1,8 @@
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import './App.css';
-import CreateUser from './components/CreateUser';
-import ListUser from './components/ListUser';
-import EditUser from './components/ListUser';
+import CreateShark from './components/CreateShark';
+import ListSharks from './components/ListShark';
+import EditShark from './components/EditShark';
 
 function App() {
   return (
@@ -13,18 +13,18 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">List Users</Link>
+              <Link to="/">List Sharks</Link>
             </li>
             <li>
-              <Link to="user/create">Create User</Link>
+              <Link to="user/create">Create Sharks</Link>
             </li>
           </ul>
         </nav>
 
         <Routes>
-          <Route index element={<ListUser />} />
-          <Route path="user/create" element={<CreateUser />} />
-          <Route path="user/:id/edit" element={<EditUser />} />
+          <Route index element={<ListSharks />} />
+          <Route path="user/create" element={<CreateShark />} />
+          <Route path="user/:id/edit" element={<EditShark />} />
 
         </Routes>
       </BrowserRouter>
