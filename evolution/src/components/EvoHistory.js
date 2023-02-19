@@ -2,6 +2,6 @@
 
 export default function History() {
   return (
-    <h1>Evolution History of Sharks</h1>
+    <h2>Evolution History of Sharks</h2>
   )
 }

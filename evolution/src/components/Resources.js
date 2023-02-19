@@ -2,6 +2,6 @@
 
 export default function Cite() {
   return (
-    <h1>Resources and Citations</h1>
+    <h2>Resources and Citations</h2>
   )
 }

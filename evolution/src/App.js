@@ -9,7 +9,7 @@ import Cite from './components/Resources';
 function App() {
   return (
     <div className="App">
-      <h2>The Evolution of Sharks</h2>
+      <h1>The Evolution of Sharks</h1>
 
       <BrowserRouter>
         <nav>

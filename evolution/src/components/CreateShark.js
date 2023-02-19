@@ -2,6 +2,6 @@
 
 export default function CreateShark() {
   return (
-    <h1>Anatomy of a Shark</h1>
+    <h2>Anatomy of a Shark</h2>
   )
 }

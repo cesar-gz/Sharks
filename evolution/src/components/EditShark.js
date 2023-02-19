@@ -1,5 +1,5 @@
 export default function EditShark() {
   return (
-    <h1>Edit Sharks</h1>
+    <h2>Edit Sharks</h2>
   )
 }

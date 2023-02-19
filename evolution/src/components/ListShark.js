@@ -2,6 +2,6 @@
 
 export default function ListSharks() {
   return (
-    <h1>Types of Sharks</h1>
+    <h2>Types of Sharks</h2>
   )
 }
