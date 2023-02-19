@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sharks/static/css/main.fe27feea.css",
+    "main.js": "/Sharks/static/js/main.a6800d19.js",
+    "index.html": "/Sharks/index.html",
+    "main.fe27feea.css.map": "/Sharks/static/css/main.fe27feea.css.map",
+    "main.a6800d19.js.map": "/Sharks/static/js/main.a6800d19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe27feea.css",
+    "static/js/main.a6800d19.js"
+  ]
+}
