@@ -1,16 +1,19 @@
 /* to get rid of bullet points */
 nav ul{
   list-style: none;
+  text-align: center;
 }
 
 nav ul li {
   display: inline-block;
   padding: 10px;
+  font-size: 25px;
 }
 
 body{
   height: 1000px;
-  background: linear-gradient(141deg, #1677C5 0%, #1A224C 51%, #0D1126 75%);
+  background: linear-gradient(180deg, #1677C5 0%, #1A224C 51%, #0D1126 75%);
+  color: azure;
 }
 
 h2 {
@@ -21,8 +24,8 @@ h2 {
 
 /* to change the color of unvisited links */
 a:link{
-color: darkseagreen;
+color: #EDB32B;
 }
 a:visited{
-color: darkseagreen;
+color: #EDB32B;
 }
