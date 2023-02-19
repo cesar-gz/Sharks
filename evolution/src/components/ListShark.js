@@ -1,5 +1,7 @@
+// this is the "Types of Sharks" heading page
+
 export default function ListSharks() {
   return (
-    <h1>List Sharks</h1>
+    <h1>Types of Sharks</h1>
   )
 }
