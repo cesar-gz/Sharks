@@ -5,7 +5,10 @@ import ListSharks from './components/ListShark';
 import EditShark from './components/EditShark';
 import History from './components/EvoHistory';
 import Cite from './components/Resources';
-import greatwhiteshark from './assets/greatwhiteshark.jpg';
+import shark from './assets/shark1.png';
+import greatWhite from './assets/shark2.png';
+import megalodon from './assets/shark3.png';
+
 
 function App() {
   return (
@@ -43,7 +46,44 @@ function App() {
         </Routes>
       </BrowserRouter>
 
-        <img width="1000px" height="650px" align="center" href="" alt="The Great White Shark" src={greatwhiteshark} />
+      <div>
+        <img 
+          href="" alt="Shark" src={shark}
+          height="155px" width="300px"
+          style={{
+            position:'relative',
+            top:'180px',
+            float:'left',
+            opacity:'0.5'
+          }}
+          />
+      </div>
+
+      <div>
+        <img 
+          href="" alt="greatWhiteShark" src={greatWhite}
+          height="625px" width="450px"
+          style={{
+            position:'relative',
+            top:'500px',
+            float:'right',
+            opacity:'0.3'
+          }}
+          />
+      </div>
+
+      <div>
+        <img 
+          href="" alt="meg" src={megalodon}
+          height="675px" width="1000px"
+          style={{
+            position:'relative',
+            top:'1000px',
+            float:'left',
+            opacity:'0.1'
+          }}
+          />
+      </div>
 
 
     </div>

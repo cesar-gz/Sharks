@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/Sharks/static/css/main.fe27feea.css",
-    "main.js": "/Sharks/static/js/main.a6800d19.js",
+    "main.css": "/Sharks/static/css/main.e32573dc.css",
+    "main.js": "/Sharks/static/js/main.7291c60f.js",
+    "static/media/greatwhiteshark.jpg": "/Sharks/static/media/greatwhiteshark.2be498359d98950bb924.jpg",
     "index.html": "/Sharks/index.html",
-    "main.fe27feea.css.map": "/Sharks/static/css/main.fe27feea.css.map",
-    "main.a6800d19.js.map": "/Sharks/static/js/main.a6800d19.js.map"
+    "main.e32573dc.css.map": "/Sharks/static/css/main.e32573dc.css.map",
+    "main.7291c60f.js.map": "/Sharks/static/js/main.7291c60f.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe27feea.css",
-    "static/js/main.a6800d19.js"
+    "static/css/main.e32573dc.css",
+    "static/js/main.7291c60f.js"
   ]
 }
