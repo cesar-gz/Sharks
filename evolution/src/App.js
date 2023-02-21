@@ -5,6 +5,7 @@ import ListSharks from './components/ListShark';
 import EditShark from './components/EditShark';
 import History from './components/EvoHistory';
 import Cite from './components/Resources';
+import greatwhiteshark from './assets/greatwhiteshark.jpg';
 
 function App() {
   return (
@@ -21,7 +22,7 @@ function App() {
               <Link to="user/create">Anatomy of Sharks</Link>
             </li>
             <li>
-              <Link to="user/:id/edit">Edit Sharks</Link>
+              <Link to="user/:id/edit">Home</Link>
             </li>
             <li>
               <Link to="shark/history">Evolution History</Link>
@@ -41,6 +42,10 @@ function App() {
 
         </Routes>
       </BrowserRouter>
+
+        <img width="1000px" height="650px" align="center" href="" alt="The Great White Shark" src={greatwhiteshark} />
+
+
     </div>
   );
 }
