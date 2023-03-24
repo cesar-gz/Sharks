@@ -19,19 +19,19 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="/">Types of Sharks</Link>
+              <Link to="/" >Types of Sharks</Link>
             </li>
             <li>
-              <Link to="user/create">Anatomy of Sharks</Link>
+              <Link to="user/create" >Anatomy of Sharks</Link>
             </li>
             <li>
-              <Link to="user/:id/edit">Home</Link>
+              <Link to="user/:id/edit" >Home</Link>
             </li>
             <li>
-              <Link to="shark/history">Evolution History</Link>
+              <Link to="shark/history" >Evolution History</Link>
             </li>
             <li>
-              <Link to="shark/resources">Resources</Link>
+              <Link to="shark/resources" >Resources</Link>
             </li>
           </ul>
         </nav>
@@ -84,7 +84,6 @@ function App() {
           }}
           />
       </div>
-
 
     </div>
   );
