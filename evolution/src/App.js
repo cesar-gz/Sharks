@@ -19,13 +19,13 @@ function App() {
         <nav>
           <ul>
             <li>
+              <Link to="user/:id/edit" >Home</Link>
+            </li>
+            <li>
               <Link to="/" >Types of Sharks</Link>
             </li>
             <li>
               <Link to="user/create" >Anatomy of Sharks</Link>
-            </li>
-            <li>
-              <Link to="user/:id/edit" >Home</Link>
             </li>
             <li>
               <Link to="shark/history" >Evolution History</Link>
