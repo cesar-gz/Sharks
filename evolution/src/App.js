@@ -47,39 +47,39 @@ function App() {
       </BrowserRouter>
 
       <div>
-        <img 
+        <img
           href="" alt="Shark" src={shark}
           height="155px" width="300px"
           style={{
-            position:'relative',
-            top:'180px',
+            position:'absolute',
+            top:'700px',
             float:'left',
-            opacity:'0.5'
+            opacity: '0.5',
           }}
           />
       </div>
 
       <div>
-        <img 
+        <img
           href="" alt="greatWhiteShark" src={greatWhite}
           height="625px" width="450px"
           style={{
-            position:'relative',
-            top:'500px',
-            float:'right',
+            position:'absolute',
+            top:'1200px',
+            right: '80px',
             opacity:'0.3'
           }}
           />
       </div>
 
       <div>
-        <img 
+        <img
           href="" alt="meg" src={megalodon}
           height="675px" width="1000px"
           style={{
-            position:'relative',
-            top:'1000px',
-            float:'left',
+            position:'absolute',
+            top: '2300px',
+            right: '300px',
             opacity:'0.1'
           }}
           />

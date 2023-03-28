@@ -5,6 +5,8 @@ import { Link } from "react-router-dom";
 // this is the "Types of Sharks" heading page
 export default function ListSharks() {
 
+/*
+
   const [users, setUsers] = useState([]);
 
   useEffect(() => {
@@ -54,6 +56,13 @@ export default function ListSharks() {
 
         </tbody>
       </table>
+    </div>
+  )
+
+*/
+  return (
+    <div>
+      <h2>Types of Sharks</h2>
     </div>
   )
 }

@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 
 // this is the page for the "Anatomy of a Shark"
 export default function CreateShark() {
-
+/*
   const navigate = useNavigate();
 
   const [inputs, setInputs] = useState({})
@@ -71,6 +71,12 @@ export default function CreateShark() {
       </form>
 
 
+    </div>
+  )
+*/
+  return (
+    <div>
+      <h2>Anatomy of Sharks</h2>
     </div>
   )
 }
