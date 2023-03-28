@@ -1,16 +1,28 @@
 {
   "files": {
-    "main.css": "/Sharks/static/css/main.d2cd5bd3.css",
-    "main.js": "/Sharks/static/js/main.4a4fb27c.js",
+    "main.css": "/Sharks/static/css/main.6609ff8e.css",
+    "main.js": "/Sharks/static/js/main.7ae438b3.js",
+    "static/media/anatomy2.jpg": "/Sharks/static/media/anatomy2.a48a206b56932dc9c4c1.jpg",
     "static/media/shark3.png": "/Sharks/static/media/shark3.76fa8d6ed437f80674b0.png",
     "static/media/shark1.png": "/Sharks/static/media/shark1.13ff85dad99644eb3b1c.png",
     "static/media/shark2.png": "/Sharks/static/media/shark2.5d5cf825665fddfbc119.png",
+    "static/media/types1.jpg": "/Sharks/static/media/types1.2217ca509710c4bc09d1.jpg",
+    "static/media/anatomy5.jpg": "/Sharks/static/media/anatomy5.b5047d84856bf92d7a77.jpg",
+    "static/media/types2.jpg": "/Sharks/static/media/types2.c3552660078d3c9421d4.jpg",
+    "static/media/anatomy.jpg": "/Sharks/static/media/anatomy.313e21a1bdf462b328b6.jpg",
+    "static/media/anatomy4.jpg": "/Sharks/static/media/anatomy4.c3ba9f1543ad5dbb13a9.jpg",
+    "static/media/anatomy3.jpg": "/Sharks/static/media/anatomy3.79b66e9ff214f9f7d1a3.jpg",
+    "static/media/types5.jpg": "/Sharks/static/media/types5.de945e0e45eeb2edd291.jpg",
+    "static/media/types8.jpg": "/Sharks/static/media/types8.a879a1856b32644307ac.jpg",
+    "static/media/types6.jpg": "/Sharks/static/media/types6.b04e2fd971dbd85db880.jpg",
+    "static/media/types4.jpg": "/Sharks/static/media/types4.7ceb586627e1d0ab8c41.jpg",
+    "static/media/types9.jpg": "/Sharks/static/media/types9.22bfb373efe9a714b66d.jpg",
     "index.html": "/Sharks/index.html",
-    "main.d2cd5bd3.css.map": "/Sharks/static/css/main.d2cd5bd3.css.map",
-    "main.4a4fb27c.js.map": "/Sharks/static/js/main.4a4fb27c.js.map"
+    "main.6609ff8e.css.map": "/Sharks/static/css/main.6609ff8e.css.map",
+    "main.7ae438b3.js.map": "/Sharks/static/js/main.7ae438b3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2cd5bd3.css",
-    "static/js/main.4a4fb27c.js"
+    "static/css/main.6609ff8e.css",
+    "static/js/main.7ae438b3.js"
   ]
 }
