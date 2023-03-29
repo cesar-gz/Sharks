@@ -13,7 +13,7 @@ import megalodon from './assets/shark3.png';
 function App() {
   return (
     <div className="App">
-      <h1>The Evolution of Sharks</h1>
+      <h1><br></br>The Evolution of Sharks</h1>
 
       <BrowserRouter>
         <nav>
