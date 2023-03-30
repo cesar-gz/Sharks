@@ -85,6 +85,13 @@ function App() {
           />
       </div>
 
+      <h6 style={{
+        textAlign: 'center',
+        fontSize: '20px'
+      }} >
+        Made by Cesar Gutierrez for CSUF GEOL 201 Lab
+      </h6>
+
     </div>
   );
 }

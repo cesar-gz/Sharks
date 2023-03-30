@@ -21,6 +21,12 @@ export default function Cite() {
       <p id="resource">Shark Evolution History research 3: <a id="resource" href="https://www.fossilguy.com/gallery/vert/fish-shark/shark_evolution/shark_evolution.htm">
         https://www.fossilguy.com/gallery/vert/fish-shark/shark_evolution/shark_evolution.htm</a></p>
       <p id="resource">Smithsoian Ocean <a id="resource" href="https://ocean.si.edu/ocean-life/sharks-rays/sharks">https://ocean.si.edu/ocean-life/sharks-rays/sharks</a></p>
+      <p id="resource">List of sharks through the ages <a id="resource" href="https://en.wikipedia.org/wiki/Category:Mesozoic_sharks">
+        https://en.wikipedia.org/wiki/Category:Mesozoic_sharks</a></p>
+      <p id="resource">Leopard Shark: <a id="resource" href="https://www.montereybayaquarium.org/animals/animals-a-to-z/leopard-shark">
+        https://www.montereybayaquarium.org/animals/animals-a-to-z/leopard-shark</a></p>
+      <p id="resource">Goblin Shark <a id="resource" href="https://ocean.si.edu/ocean-life/sharks-rays/goblin-shark">
+        https://ocean.si.edu/ocean-life/sharks-rays/goblin-shark</a></p>
 
       <h3>Images: </h3>
       <p id="resource">Tiger Shark: <a id="resource" href="https://www.transparentpng.com/details/shark-17_30278.html">https://www.transparentpng.com/details/shark-17_30278.html</a></p>
@@ -39,6 +45,34 @@ export default function Cite() {
         https://ocean.si.edu/through-time/carboniferous-sharks</a></p>
       <p id="resource">Ortha Shark: <a id="resource" href="https://a-z-animals.com/media/2022/12/Orthacanthus-Shark-1024x576.jpg">
         https://a-z-animals.com/media/2022/12/Orthacanthus-Shark-1024x576.jpg</a></p>
+      <p id="resource">Asteracanthus: <a id="resource" href="https://upload.wikimedia.org/wikipedia/commons/2/24/Asteracanthus_image.jpg">
+        https://upload.wikimedia.org/wikipedia/commons/2/24/Asteracanthus_image.jpg</a></p>
+      <p id="resource">Hybodus Hauffianus: <a id="resource" href="https://upload.wikimedia.org/wikipedia/commons/6/68/Hybodus_hauffianus.png">
+        https://upload.wikimedia.org/wikipedia/commons/6/68/Hybodus_hauffianus.png</a></p>
+      <p id="resource">Sphenodus Nitidus Head: <a id="resource" href="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sphenodus_nitidus_head.jpg">
+        https://upload.wikimedia.org/wikipedia/commons/8/8f/Sphenodus_nitidus_head.jpg</a></p>
+      <p id="resource">Cretoxyrhina 1 <a id="resource" href="https://upload.wikimedia.org/wikipedia/commons/6/6c/Cretoxyrhina_attacking_Pteranodon.png">
+        https://upload.wikimedia.org/wikipedia/commons/6/6c/Cretoxyrhina_attacking_Pteranodon.png</a></p>
+      <p id="resource">Cretoxyrhina 2 <a id="resource" href="https://upload.wikimedia.org/wikipedia/commons/5/5b/Kansas_sea2DB.jpg">
+        https://upload.wikimedia.org/wikipedia/commons/5/5b/Kansas_sea2DB.jpg</a></p>
+      <p id="resource">Meg Chart: <a id="resource" href="https://en.wikipedia.org/wiki/Megalodon#/media/File:Megalodon-Carcharodon-Scale-Chart-SVG.svg">
+        https://en.wikipedia.org/wiki/Megalodon</a></p>
+      <p id="resource">Meg Tooth Size: <a id="resource" href="https://en.wikipedia.org/wiki/File:Megalodon_tooth_with_great_white_sharks_teeth-3-2.jpg">
+        https://en.wikipedia.org/wiki/File:Megalodon_tooth_with_great_white_sharks_teeth-3-2.jpg</a></p>
+      <p id="resource">Leopard Shark Img <a id="resource" href="https://sdzwildlifeexplorers.org/sites/default/files/2017-07/leopard-shark-ar.jpg">
+        https://sdzwildlifeexplorers.org/sites/default/files/2017-07/leopard-shark-ar.jpg</a></p>
+      <p id="resource">Lemon Shark Img <a id="resource" href="https://en.wikipedia.org/wiki/Lemon_shark#/media/File:Lemonshark_(2).jpg">
+        https://en.wikipedia.org/wiki/Lemon_shark#/media/File:Lemonshark_(2).jpg</a></p>
+      <p id="resource">Great Hammerhead <a id="resource" href="https://en.wikipedia.org/wiki/Great_hammerhead#/media/File:Great_hammerhead2.jpg">
+        https://en.wikipedia.org/wiki/Great_hammerhead#/media/File:Great_hammerhead2.jpg</a></p>
+      <p id="resource">Goblin Shark <a id="resource" href="https://ocean.si.edu/sites/default/files/styles/photo_full/public/goblin-shark-nologo.jpg.webp?itok=Lnntvg3S">
+        https://ocean.si.edu/sites/default/files/styles/photo_full/public/goblin-shark-nologo.jpg.webp?itok=Lnntvg3S</a></p>
+      <p id="resource">MegaMouth Shark <a id="resource" href="https://factanimal.com/wp-content/uploads/2022/05/megamouth-shark-facts-top.jpg">
+        https://factanimal.com/wp-content/uploads/2022/05/megamouth-shark-facts-top.jpg</a></p>
+      <p id="resource">Whale Shark <a id="resource" href="https://kids.nationalgeographic.com/animals/fish/facts/whale-sharks">
+        https://kids.nationalgeographic.com/animals/fish/facts/whale-sharks</a></p>
+      <p id="resource">Bahamas Sawshark <a id="resource" href="https://creation.com/wonderfully-designed-sawfish">
+        https://creation.com/wonderfully-designed-sawfish</a></p>
     </div>
 
   )

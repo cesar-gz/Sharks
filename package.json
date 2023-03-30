@@ -1,5 +1,5 @@
 {
-  "homepage": "https://cesar-gz.github.io/Sharks",
+  "homepage": "https://cesar-gz.github.io/user/:id/edit",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
