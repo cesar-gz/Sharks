@@ -20,6 +20,7 @@ export default function Cite() {
         https://www.nhm.ac.uk/discover/shark-evolution-a-450-million-year-timeline.html</a></p>
       <p id="resource">Shark Evolution History research 3: <a id="resource" href="https://www.fossilguy.com/gallery/vert/fish-shark/shark_evolution/shark_evolution.htm">
         https://www.fossilguy.com/gallery/vert/fish-shark/shark_evolution/shark_evolution.htm</a></p>
+      <p id="resource">Smithsoian Ocean <a id="resource" href="https://ocean.si.edu/ocean-life/sharks-rays/sharks">https://ocean.si.edu/ocean-life/sharks-rays/sharks</a></p>
 
       <h3>Images: </h3>
       <p id="resource">Tiger Shark: <a id="resource" href="https://www.transparentpng.com/details/shark-17_30278.html">https://www.transparentpng.com/details/shark-17_30278.html</a></p>
@@ -36,6 +37,9 @@ export default function Cite() {
         https://www.fossilguy.com/gallery/vert/fish-shark/shark_evolution/shark_evolution.htm</a></p>
       <p id="resource">Carboniferous sharks: <a id="resource" href="https://ocean.si.edu/through-time/carboniferous-sharks">
         https://ocean.si.edu/through-time/carboniferous-sharks</a></p>
+      <p id="resource">Ortha Shark: <a id="resource" href="https://a-z-animals.com/media/2022/12/Orthacanthus-Shark-1024x576.jpg">
+        https://a-z-animals.com/media/2022/12/Orthacanthus-Shark-1024x576.jpg</a></p>
     </div>
+
   )
 }

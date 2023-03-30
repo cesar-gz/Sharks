@@ -5,6 +5,8 @@ import tooth from '../assets/tooth.jpg';
 import devShark from '../assets/problem.jpg';
 import devShark2 from '../assets/problem2.jpg';
 import carbon from '../assets/carbon.jpg';
+import ortha from '../assets/ortha.jpg';
+import ortha2 from '../assets/ortha2.jpg';
 
 export default function History() {
   return (
@@ -79,7 +81,32 @@ export default function History() {
         }}
       />
 
+      <h4>Shark Mass Extinction during Permian Period (252 mya)</h4>
+      <p>"The Big One" extinction event killed 96% of all marine life. Some specialized sharks became extinct like the spiny sharks.
+        One of the sharks during this time was called the <b style={{ color: '#EDB32B' }}>Orthachanthus</b>. This fossil of it was found in
+        Germany. This shark is 8 feet long.
+      </p>
+      <img href="" alt="A" src={ortha}
+        style={{
+          position: 'relative',
+          zIndex: '2',
+          display: 'block',
+          margin: 'auto',
+        }}
+      />
+      <br></br>
+      <img href="" alt="A" src={ortha2}
+        style={{
+          position: 'relative',
+          zIndex: '2',
+          display: 'block',
+          margin: 'auto',
+        }}
+      />
 
+      <h4>Mesozoic Shark Recovery (252 mya)</h4>
+      <p>(under construction)</p>
+      <br></br>
 
     </div>
 
