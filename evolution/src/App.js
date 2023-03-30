@@ -9,6 +9,8 @@ import shark from './assets/shark1.png';
 import greatWhite from './assets/shark2.png';
 import megalodon from './assets/shark3.png';
 
+/* <Route path="user/:id/edit" element={<EditShark />} /> */
+/* <Link to="user/:id/edit" >Home</Link> */
 
 function App() {
   return (
@@ -19,7 +21,7 @@ function App() {
         <nav>
           <ul>
             <li>
-              <Link to="user/:id/edit" >Home</Link>
+              <Link to="Sharks" >Home</Link>
             </li>
             <li>
               <Link to="user/create" >Anatomy of Sharks</Link>
@@ -39,7 +41,7 @@ function App() {
         <Routes>
           <Route index element={<ListSharks />} />
           <Route path="user/create" element={<CreateShark />} />
-          <Route path="user/:id/edit" element={<EditShark />} />
+          <Route path="Sharks" element={<EditShark />} />
           <Route path="shark/history" element={<History />} />
           <Route path="shark/resources" element={<Cite />} />
 
