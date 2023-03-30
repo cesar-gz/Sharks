@@ -77,7 +77,7 @@ export default function ListSharks() {
       <h2>Types of Sharks</h2>
 
       <p>
-        Every shark belongs to a scientific class <b>Chondrichthyes</b> which classifies sharks as cartilaginous fish. These types of fishes have internal skeletons
+        Every shark belongs to the scientific class <b>Chondrichthyes</b> which classifies sharks as cartilaginous fish. These types of fishes have internal skeletons
         made of flexible cartilage rather than hard bones like us. Within the Chondrichthyes, there is a group called the <b>Elasmobranchii</b>.
         Within the Elasmobranchii there are eight orders of sharks. Each order divides the sharks based on the shark's behavior, biology, and physical traits of
         sharks in that order.

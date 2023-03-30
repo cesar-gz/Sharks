@@ -1,6 +1,10 @@
+/*
 import { useState, useEffect } from "react";
 import axios from "axios";
 import { useNavigate, useParams } from "react-router-dom";
+*/
+
+import shark4 from '../assets/shark4.jpg';
 
 // this is the page for the "Edit Shark"
 export default function EditShark() {
@@ -89,19 +93,25 @@ export default function EditShark() {
 */
   return (
     <div>
-      <h2>Home of Sharks</h2>
+      <h2 style={{ textAlign: 'center' }} >Welcome</h2>
+
+      <img href="" alt="A" src={shark4}
+        style={{
+          position: 'relative',
+          zIndex: '2',
+          display: 'block',
+          margin: 'auto',
+          width: '100%',
+          height: '90%'
+        }}
+      />
 
       <p>
         Sharks are a diverse group of fish found in oceans around the world, ranging from the small dwarf lanternshark, which is only about 8 inches long, to the massive whale shark, which can reach lengths of up to 40 feet.
-      </p>
-
-      <p>
         Sharks have a reputation as fearsome predators, but many species are actually quite peaceful and prefer to feed on small fish, crustaceans, and other marine life. Some sharks, such as the whale shark, are even filter feeders that consume plankton.
-      </p>
-
-      <p>
         Despite their importance to ocean ecosystems, many shark species are facing threats from overfishing, habitat loss, and climate change. Conservation efforts are underway to protect these iconic creatures and ensure their survival for future generations.
       </p>
+
     </div>
 
   )

@@ -4,7 +4,7 @@ nav {
   border-bottom: #125c9a;
   border-left: #C2B280;
   border-right: #C2B280;
-  border-style: solid;
+  border-style: inset dashed inset dashed;
 }
 
 nav ul {
@@ -50,7 +50,6 @@ h1 {
   height: 125px;
   margin: 0;
   padding: 0;
-  vertical-align: middle;
   font-weight: 800;
   font-size: 50px;
   text-align: center;
@@ -65,6 +64,7 @@ h2 {
   font-family: 'Montserrat', sans-serif;
   -webkit-text-stroke: 1px black;
   font-weight: 800;
+  padding: 0 20px;
 }
 
 /* to change the color of unvisited links */
@@ -81,6 +81,7 @@ h3 {
   font-family: 'Montserrat', sans-serif;
   -webkit-text-stroke: 1px #0D1126;
   font-weight: 800;
+
 }
 
 h4 {
@@ -89,12 +90,15 @@ h4 {
   font-family: 'Montserrat', sans-serif;
   -webkit-text-stroke: 1px #0D1126;
   font-weight: 800;
+  padding: 0 40px;
 }
 
 p {
+  padding: 0 40px;
   text-indent: 20px;
   font-size: 23px;
   text-align: left;
+  letter-spacing: 1px;
 }
 
 p b {
@@ -110,4 +114,14 @@ p b {
 }
 #resource:visited{
   color: rgba(0, 255, 255, 0.719);
+}
+
+ul {
+  font-size: 23px;
+  padding: 0 40px;
+  letter-spacing: 1px;
+}
+
+li {
+  padding: 5px 0;
 }
